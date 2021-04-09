@@ -1,7 +1,3 @@
-// fetch("https://www.themealdb.com/api/json/v1/1/filter.php?c=Beef")
-//     .then(res => res.json())
-//     .then(data => console.log(data.meals));
-
 const meals = document.getElementById("meals");
 const category = document.getElementById("category");
 const btn = document.getElementById("create");

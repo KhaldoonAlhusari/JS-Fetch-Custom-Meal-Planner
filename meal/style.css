@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+#category {
+    margin: 10px 5px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.container {
+    width: 50%;
+    margin-left: 25%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.container h4 {
+    text-align: center;
+}
